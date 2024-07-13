@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy maufranzar 👋
 
-<!--
-**maufranzar/maufranzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías
+- **Lenguajes de Programación**: Python, Bash
+- **Frameworks**: Numpy, Pandas, 
+- **Herramientas**: Docker, Git, GitHub, VS Code
+
+## Proyectos destacados
+- **Proyecto 1**: Descripción breve del proyecto. [Ver más](URL_del_proyecto)
+- **Proyecto 2**: Descripción breve del proyecto. [Ver más](URL_del_proyecto)
+
+## Cómo colaborar
+Estoy abierto a colaboraciones en proyectos que utilicen Python y tecnologías relacionadas. Si tienes una idea o proyecto en mente, ¡no dudes en contactarme!
+
+## Contacto
+- **GitHub**: [@TuUsuario](URL_de_tu_perfil_de_GitHub)
+- **LinkedIn**: [Tu Nombre](URL_de_tu_perfil_de_LinkedIn)
+- **Correo Electrónico**: tu.correo@example.com
